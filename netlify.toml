@@ -1,0 +1,3 @@
+[build]
+  command = "mkdir -p public && php index.php > public/index.html"
+  publish = "public"
